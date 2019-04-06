@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name         = "MGPSDK"
+  s.name         = "MPGSDK"
   s.version      = "1.1.1"
   s.summary      = "MasterCard Gateway iOS SDK"
   s.homepage     = "https://github.com/Mastercard-Gateway/gateway-ios-sdk"
